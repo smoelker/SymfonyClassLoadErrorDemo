@@ -60,6 +60,8 @@ namespace prefix used with the resource in
 I double checked the paths, namespace and the class 
 name multiple times and everything seems fine and I 
 don't understand why I still get the error.
+Controllers in the ./src folder seem to load fine.
+What am I doing wrong here? 
 
 ## Steps to reproduce
 
