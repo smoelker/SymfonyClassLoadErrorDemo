@@ -86,6 +86,9 @@
             "ref": "cda8b550123383d25827705d05a42acf6819fe4e"
         }
     },
+    "symfony/thanks": {
+        "version": "v1.0.0"
+    },
     "symfony/web-server-bundle": {
         "version": "3.3",
         "recipe": {
